@@ -4,6 +4,8 @@
 
 Authors: David Ma, Albert Liu, and Broden Wanner
 
+A project for our Data Mining class analyzing NFL pass play data.
+
 `NFL_Pass_Play_Analysis.ipynb` contains the initial data exploration, cleaning, preprocessing, and classification on pass result.
 
 `NFL_Player_Analysis.ipynb` contains exploration, analysis, and clustering on NFL players and players' stats.
